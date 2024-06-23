@@ -1,5 +1,3 @@
-
-
 PVplr-stGNN is a Python3 package developed by the SDLE Research Center at Case Western Reserve University in Cleveland OH. This repository contains the full source PVplr-stGNN package. The package contains the PV-stGAE for missingness data detection and imputation and PV-DynGNN for Photovolatics (PV) PLR estimation.
 
 # Features
